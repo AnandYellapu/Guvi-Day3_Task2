@@ -1,0 +1,37 @@
+let myResume={
+    "basics": {
+        "name": "Yellapu AnandSai",
+        "label": "Programmer",
+        "email": "anandsaiii1200@gmail.com",
+        "phone": "8374161339",
+        "location": "1-51,Boddavaram,Kakinada Dist,Kotananduru Mandal",
+        "postalCode": "533401",
+        "city": "Boddavaram",
+        "country": "India",
+        "state": "Andhra Pradesh"
+    },
+    "profiles": [{
+        "network": "Linkedin","Github",
+        "username": "Yellapu anandsai",
+        "url": "www.linkedin.com/in/yellapu-anandsai-38873b238",
+        "giturl": "https://github.com/AnandYellapu"
+    }],
+    "education": [{
+        "institution":"Aditya college of engineering",
+        "department": "Computer science of engineering",
+        "startdate": "Aug-2016",
+        "enddate": "Sep-2020",
+        "gpa": "6.7"
+   }],
+    "skills":[{
+        "name": "Html,Css,Javascript",
+        "level": "beginner",
+    }],
+    "language": [{
+        "language": "Telugu,English",
+        "fluency": "Telugu",
+    }],
+    "intrest":[{
+        "name": "Block chain Technology"
+    }],
+    console.log(myResume)
